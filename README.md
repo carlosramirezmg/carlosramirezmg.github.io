@@ -1,2 +1,2 @@
 # Welcome.
-# WWe are working to build an amazing web.
+# We are working to build an amazing web.
